@@ -1,0 +1,17 @@
+:root {
+	--color-prmary: #bad7ec;
+	--color-secondary: #0a3962;
+	--color-success: #28a745;
+}
+body {
+	background-color: var(--color-prmary);
+	color: var(--color-secondary);
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.2rem;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+.contain {
+	margin-top: 100px;
+}
