@@ -162,6 +162,9 @@
 			clearInterval(intervalId);
 		});
 	});
+	const refresh = () => {
+		window.location.reload();
+	};
 </script>
 
 <div class="container contain">
@@ -203,7 +206,15 @@
 			</div>
 		</div>
 		<div class="col-md-6 shadow rounded-lg">
-			<DateDisplay />
+			<div class="row d-flex justify-content-between align-middle">
+				<div class="col-md-3">
+					<DateDisplay />
+				</div>
+				<div class="col-md-3">
+					<button class="btn btn-success btn-sm" on:click={refresh}>Refresh</button>
+				</div>
+			</div>	
+
 			<h3 class="text-center text-header">Data Absesnsi</h3>
 
 			<TableAbsen items={filterAbsen} />

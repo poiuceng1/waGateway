@@ -282,6 +282,46 @@
       "keterangan": "Pulang",
       "kelas": "XII RPL 3",
       "id": 28
+    },
+    {
+      "id_siswa": 345657,
+      "nama": "Asep",
+      "tanggal": "29 Desember 2023",
+      "status": "Pulang Tepat Waktu",
+      "keterangan": "Pulang",
+      "kelas": "XII RPL 3",
+      "id": 29
+    },
+    {
+      "id_siswa": 345657,
+      "nama": "Asep",
+      "tanggal": "29 Desember 2023",
+      "status": "Pulang Tepat Waktu",
+      "keterangan": "Pulang",
+      "kelas": "XII RPL 3",
+      "id": 30
+    },
+    {
+      "id_siswa": 234567,
+      "nama": "Rizky",
+      "tanggal": "29 Desember 2023",
+      "status": "Pulang Tepat Waktu",
+      "keterangan": "Pulang",
+      "kelas": "XII RPL 1",
+      "hp": "082283919347",
+      "foto": "img/1.jpg",
+      "id": 31
+    },
+    {
+      "id_siswa": 234567,
+      "nama": "Rizky",
+      "tanggal": "29 Desember 2023",
+      "status": "Pulang Tepat Waktu",
+      "keterangan": "Pulang",
+      "kelas": "XII RPL 1",
+      "hp": "082283919347",
+      "foto": "img/1.jpg",
+      "id": 32
     }
   ]
 }
